@@ -1,7 +1,7 @@
 # exploratory-data-analysis-college-basketball
 Exploratory data analysis of NCAA college basketball data, examining correlations, percentiles, and statistical patterns to uncover unique insights from the dataset. I use Python, matplotlib, NumPy, and the datascience module from Berkeley. 
 
-<img src="https://github.com/user-attachments/assets/17a88a98-0e65-422f-9e58-fef5974b617a" alt="Stephen Curry" width="950">
+<img src="https://github.com/user-attachments/assets/17a88a98-0e65-422f-9e58-fef5974b617a" alt="Stephen Curry" width="1000">
 
 # NCAA College Basketball Exploratory Data Analysis (2013–2024)
 
